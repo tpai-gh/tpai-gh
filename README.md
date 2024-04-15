@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tpai1991
 - 👀 I’m interested in cloud infrastructure orchestration and automation.
 - 🌱 I’m currently learning python3, ansible, terraform, openstack, google cloud, and container orchestration (kubernetes, openshift)
-- 💞️ I’m looking to collaborate on ansible and terraform projects.
+- 💞️ I’m looking to collaborate on devops projects using tools like ansible, terraform, chef inspec, etc.
 - 📫 How to reach me...
 
 <!---
