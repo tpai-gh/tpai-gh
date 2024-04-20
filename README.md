@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tejas, a full-time Infrastructure DevOps engineer 👨‍💻 working since 2016🚀</div>  
+### <div align="left">I'm Tejas, a full-time Infrastructure DevOps engineer 👨‍💻 working since 2016🚀</div>  
   
 
 - 🔭 I’m currently working on [my github page](https://github.com/tpai1991/gh-page)  
